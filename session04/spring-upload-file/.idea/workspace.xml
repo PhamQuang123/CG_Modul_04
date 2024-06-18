@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b091b4cd-e689-4a7b-95b5-896b110d2942" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../spring-user-model/src/main/java/cg/codegym/config/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-user-model/src/main/java/cg/codegym/config/AppinitConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-user-model/src/main/java/cg/codegym/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-user-model/src/main/java/cg/codegym/model/Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-user-model/src/main/java/cg/codegym/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-user-model/src/main/java/cg/codegym/model/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-user-model/src/main/webapp/WEB-INF/views/error.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-user-model/src/main/webapp/WEB-INF/views/home.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-user-model/src/main/webapp/WEB-INF/views/user.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../session02/qldskh/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../session02/qldskh/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../session03/baitap/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../session03/baitap/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../session03/session03_thuchanh" beforeDir="false" afterPath="$PROJECT_DIR$/../../session03/session03_thuchanh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../session03/spring_form_tutorial/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../session03/spring_form_tutorial/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../session03/spring_form_tutorial/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../session03/spring_form_tutorial/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../session03/spring_form_tutorial/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../session03/spring_form_tutorial/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../session03/spring_form_tutorial/.idea/webContexts.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../session03/spring_form_tutorial/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../session03/spring_form_tutorial/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../session03/spring_form_tutorial/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../session03/spring_form_tutorial/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../session03/spring_form_tutorial/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../session03/spring_form_tutorial/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../session03/spring_form_tutorial/src/main/java/cg/qlnv/config/AppConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../session03/spring_form_tutorial/src/main/java/cg/qlnv/config/AppinitConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../session03/spring_form_tutorial/src/main/java/cg/qlnv/controller/EmployeeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../session03/spring_form_tutorial/src/main/java/cg/qlnv/model/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../session03/spring_form_tutorial/src/main/webapp/WEB-INF/views/create.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../session03/spring_form_tutorial/src/main/webapp/WEB-INF/views/info.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../session03/spring_form_tutorial/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2hzrjyouTnfUH9nTOQtZOPVJjqM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b091b4cd-e689-4a7b-95b5-896b110d2942" name="Changes" comment="" />
+      <created>1718607887058</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718607887058</updated>
+      <workItem from="1718607888482" duration="2000" />
+    </task>
+    <servers />
+  </component>
+</project>
